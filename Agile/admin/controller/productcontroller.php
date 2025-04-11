@@ -125,4 +125,5 @@ class productController
             echo "Xóa thất bại";
         }
     }
+    // doan fix merge
 }
