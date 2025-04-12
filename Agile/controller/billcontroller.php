@@ -38,7 +38,6 @@ class billController
             } else {
                 echo "Sửa thất bại";
             }
-
         }
     }
 
