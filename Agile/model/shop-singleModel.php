@@ -6,11 +6,11 @@ class detailModel
     {
         $this->conn = connDBAss();
     }
-    // function product_variant($id)
-    // {
-    //     $sql = "SELECT * FROM product_variant JOIN variant ON product_variant.id_variant=variant.id_variant WHERE id_product=$id";
-    //     return $this->conn->query($sql)->fetchAll();
-    // }
+    function product_variant($id)
+    {
+        $sql = "SELECT * FROM product_variant JOIN variant ON product_variant.id_variant=variant.id_variant WHERE id_product=$id";
+        return $this->conn->query($sql)->fetchAll();
+    }
     function findProductById($id)
     {
         $sql = "SELECT * FROM products WHERE id_product=$id";
