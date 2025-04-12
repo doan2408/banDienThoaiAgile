@@ -31,7 +31,7 @@ require_once 'layout/navbar.php';
     <!-- code ở đây -->
     <div class="container-fluid">
         <!-- Page Heading -->
-        <h1 class="h3 mb-2 text-gray-800">THỐNG KÊ SỐ LƯỢNG SẢN PHẨM</h1>
+        <h1 class="h3 mb-2 text-gray-800">THỐNG KÊ SỐ LƯỢNG SẢN PHẨM.</h1>
 
         <!-- DataTales Example -->
         <div class="card shadow mb-4">
