@@ -56,6 +56,7 @@ require_once 'layout/navbar.php';
 require_once 'layout/scripts.php'; 
 require_once 'layout/footer.php';
 ?>
+<<<<<<< HEAD
 
 
 
@@ -64,3 +65,5 @@ require_once 'layout/footer.php';
 
 
 
+=======
+>>>>>>> 9eaa1e6d76c48c9a8e4c26ea5e7f3a2e8678c56c
