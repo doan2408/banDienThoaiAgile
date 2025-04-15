@@ -32,5 +32,4 @@ class CommentController
             echo "Xóa bình luận thất bại";
         }
     }
-    // hehe
 }
